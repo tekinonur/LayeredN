@@ -1,0 +1,6 @@
+@LayeredN.Presentation.API_HostAddress = http://localhost:5253
+
+GET {{LayeredN.Presentation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
